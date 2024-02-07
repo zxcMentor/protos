@@ -1,3 +1,4 @@
-module github.com/zxcMentor/protos
+module protosForMicroservice
+
 
 go 1.19
